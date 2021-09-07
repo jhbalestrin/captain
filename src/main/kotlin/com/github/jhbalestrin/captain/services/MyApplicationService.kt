@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.jhbalestrin.captain.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jhbalestrin.captain.MyBundle
 
 class MyApplicationService {
 
